@@ -1,0 +1,131 @@
+Lendo listas de pacotes...
+Construindo árvore de dependências...
+Lendo informação de estado...
+Os seguintes pacotes foram instalados automaticamente e já não são necessários:
+  libgl1:i386 libgl1-mesa-dri:i386 libglvnd0:i386 libglx-mesa0:i386
+  libglx0:i386 libnvidia-cfg1-535 libnvidia-common-535 libnvidia-compute-535
+  libnvidia-compute-535:i386 libnvidia-decode-535 libnvidia-decode-535:i386
+  libnvidia-encode-535 libnvidia-encode-535:i386 libnvidia-extra-535
+  libnvidia-fbc1-535 libnvidia-fbc1-535:i386 libnvidia-gl-535
+  libnvidia-gl-535:i386 libvulkan1:i386 libxcb-glx0:i386 libxcb-shm0:i386
+  libxxf86vm1:i386 mesa-vulkan-drivers:i386 nvidia-compute-utils-535
+  nvidia-firmware-535-535.309.01 nvidia-kernel-common-535
+  nvidia-kernel-source-535 nvidia-utils-535 xserver-xorg-video-nvidia-535
+Utilize 'sudo apt autoremove' para os remover.
+Os pacotes adicionais a seguir serão instalados:
+  libnvidia-cfg1-535 libnvidia-cfg1-580 libnvidia-common-535
+  libnvidia-common-580 libnvidia-compute-535 libnvidia-compute-535:i386
+  libnvidia-compute-580 libnvidia-compute-580:i386 libnvidia-decode-535
+  libnvidia-decode-535:i386 libnvidia-decode-580 libnvidia-decode-580:i386
+  libnvidia-encode-535 libnvidia-encode-535:i386 libnvidia-encode-580
+  libnvidia-encode-580:i386 libnvidia-extra-535 libnvidia-extra-580
+  libnvidia-fbc1-535 libnvidia-fbc1-535:i386 libnvidia-fbc1-580
+  libnvidia-fbc1-580:i386 libnvidia-gl-535 libnvidia-gl-535:i386
+  libnvidia-gl-580 libnvidia-gl-580:i386 nvidia-compute-utils-535
+  nvidia-compute-utils-580 nvidia-dkms-535 nvidia-dkms-580 nvidia-driver-580
+  nvidia-firmware-580-580.178.04 nvidia-kernel-common-535
+  nvidia-kernel-common-580 nvidia-kernel-source-535 nvidia-kernel-source-580
+  nvidia-utils-535 nvidia-utils-580 ocl-icd-libopencl1:i386
+  xserver-xorg-video-nvidia-535 xserver-xorg-video-nvidia-580
+Os NOVOS pacotes a seguir serão instalados:
+  libnvidia-cfg1-580 libnvidia-common-580 libnvidia-compute-580
+  libnvidia-compute-580:i386 libnvidia-decode-580 libnvidia-decode-580:i386
+  libnvidia-encode-580 libnvidia-encode-580:i386 libnvidia-extra-580
+  libnvidia-fbc1-580 libnvidia-fbc1-580:i386 libnvidia-gl-580
+  libnvidia-gl-580:i386 nvidia-compute-utils-580 nvidia-dkms-580
+  nvidia-driver-580 nvidia-firmware-580-580.178.04 nvidia-kernel-common-580
+  nvidia-kernel-source-580 nvidia-utils-580 ocl-icd-libopencl1:i386
+  xserver-xorg-video-nvidia-580
+Os pacotes a seguir serão atualizados:
+  libnvidia-cfg1-535 libnvidia-common-535 libnvidia-compute-535
+  libnvidia-compute-535:i386 libnvidia-decode-535 libnvidia-decode-535:i386
+  libnvidia-encode-535 libnvidia-encode-535:i386 libnvidia-extra-535
+  libnvidia-fbc1-535 libnvidia-fbc1-535:i386 libnvidia-gl-535
+  libnvidia-gl-535:i386 nvidia-compute-utils-535 nvidia-dkms-535
+  nvidia-driver-535 nvidia-kernel-common-535 nvidia-kernel-source-535
+  nvidia-utils-535 xserver-xorg-video-nvidia-535
+20 pacotes atualizados, 22 pacotes novos instalados, 0 a serem removidos e 178 não atualizados.
+Inst nvidia-kernel-common-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-firmware-580-580.178.04 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-kernel-common-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Inst nvidia-driver-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-extra-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-extra-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-common-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [all]) []
+Inst libnvidia-common-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [all]) []
+Inst libnvidia-gl-535:i386 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) [libnvidia-gl-535:amd64 on libnvidia-gl-535:i386] [libnvidia-gl-535:i386 on libnvidia-gl-535:amd64] [libnvidia-gl-535:amd64 ]
+Inst libnvidia-gl-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-gl-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) []
+Inst libnvidia-decode-535:i386 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) [libnvidia-decode-535:amd64 on libnvidia-decode-535:i386] [libnvidia-decode-535:i386 on libnvidia-decode-535:amd64] [libnvidia-decode-535:amd64 ]
+Inst libnvidia-decode-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-decode-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst ocl-icd-libopencl1:i386 (2.3.2-1build1 Ubuntu:24.04/noble, Ubuntu:24.04/noble-updates [i386]) []
+Inst libnvidia-compute-535:i386 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) [libnvidia-compute-535:amd64 on libnvidia-compute-535:i386] [libnvidia-compute-535:i386 on libnvidia-compute-535:amd64] [libnvidia-compute-535:amd64 ]
+Inst libnvidia-compute-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-compute-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) []
+Inst libnvidia-decode-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) []
+Inst libnvidia-compute-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-gl-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-dkms-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-kernel-source-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-kernel-source-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-dkms-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-compute-utils-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-compute-utils-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-encode-535:i386 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) [libnvidia-encode-535:amd64 on libnvidia-encode-535:i386] [libnvidia-encode-535:i386 on libnvidia-encode-535:amd64] [libnvidia-encode-535:amd64 ]
+Inst libnvidia-encode-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-encode-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) []
+Inst libnvidia-encode-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-utils-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-utils-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst xserver-xorg-video-nvidia-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-cfg1-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-cfg1-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst xserver-xorg-video-nvidia-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-fbc1-535:i386 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) [libnvidia-fbc1-535:amd64 on libnvidia-fbc1-535:i386] [libnvidia-fbc1-535:i386 on libnvidia-fbc1-535:amd64] [libnvidia-fbc1-535:amd64 ]
+Inst libnvidia-fbc1-535 [535.309.01-0ubuntu0.24.04.1] (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst libnvidia-fbc1-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386]) []
+Inst libnvidia-fbc1-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64]) []
+Inst nvidia-driver-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-kernel-common-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-firmware-580-580.178.04 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-kernel-common-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-driver-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-extra-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-extra-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-common-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [all])
+Conf libnvidia-common-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [all])
+Conf libnvidia-gl-535:i386 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-gl-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-gl-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-decode-535:i386 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-decode-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-decode-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf ocl-icd-libopencl1:i386 (2.3.2-1build1 Ubuntu:24.04/noble, Ubuntu:24.04/noble-updates [i386])
+Conf libnvidia-compute-535:i386 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-compute-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-compute-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-decode-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-compute-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-gl-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-dkms-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-kernel-source-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-kernel-source-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-dkms-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-compute-utils-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-compute-utils-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-encode-535:i386 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-encode-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-encode-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-encode-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-utils-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-utils-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf xserver-xorg-video-nvidia-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-cfg1-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-cfg1-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf xserver-xorg-video-nvidia-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-fbc1-535:i386 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-fbc1-535 (535.309.01-0ubuntu0.24.04.2 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf libnvidia-fbc1-580:i386 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [i386])
+Conf libnvidia-fbc1-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
+Conf nvidia-driver-580 (580.178.04-0ubuntu0.24.04.1 Ubuntu:24.04/noble-updates, Ubuntu:24.04/noble-security [amd64])
